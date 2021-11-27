@@ -1,0 +1,36 @@
+
+h1 {
+	color:blueviolet;
+	font-family: roboto;
+	text-align: center;
+}
+
+h2 {
+	color:rgb(226, 43, 73);
+	font-family: roboto;
+	
+}
+a{
+	border-style: dotted;
+	border-color: burlywood;
+}
+
+p{
+	font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: .5em;	
+}
+
+body {
+	font-family: 'roboto';
+	background-color:darkgray;
+}
+footer{
+	background-color: sienna;
+}
+#ff{
+ display: inline;
+ text-align: center;
+}
+
